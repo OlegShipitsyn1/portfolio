@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "name": "ikkam",
+      "type": "landing page",
+      "subject" : "разработка",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "" ,
+      "link": "https://ikkam.ru/"
+    },
+
+    {
+      "name": "zi1",
+      "type": "landing page",
+      "subject" : "разработка",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://zi1.io/"
+    },
+
+    {
+      "name": "amberluxury",
+      "type": "интернет-магазин",
+      "subject" : "ювелирная продукция",
+      "stack": {
+        "client": [],
+        "server": ["Битрикс24"],
+        "database": ["1с Битрикс"]
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://amberluxury.ru/"
+    },
+
+    {
+      "name": "amberium",
+      "type": "интернет-магазин",
+      "subject" : "ювелирная продукция",
+      "stack": {
+        "client": [],
+        "server": ["Битрикс24"],
+        "database": ["1с Битрикс"]
+      },
+      "cost": "",
+      "terms": "",
+      "link": "http://amberium.market/"
+    },
+
+    {
+      "name": "hills-sport",
+      "type": "landing page",
+      "subject" : "спорт",
+      "stack": {
+        "client": ["jQuery", "Bulma"],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "http://hills-sport.ru/"
+    },
+
+    {
+      "name": "innco",
+      "type": "портал",
+      "subject" : "финансы",
+      "stack": {
+        "client": ["jQuery"],
+        "server": ["Laravel"],
+        "database": ["MySQL", "MariaDB"]
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://innco.ru/"
+    },
+
+    {
+      "name": "prazdnik",
+      "type": "",
+      "subject" : "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://prazdnik.plus/"
+    },
+
+    {
+      "name": "burgerking",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": ["symfony"],
+        "database": ["mongodb"]
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://play.google.com/store/apps/details?id=ru.burgerking"
+    },
+
+    {
+      "name": "hyundai",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://play.google.com/store/apps/details?id=com.mediapark.hyundai"
+    },
+
+    {
+      "name": "gosuslugi",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://26gosuslugi.ru/"
+    },
+
+    {
+      "name": "rahmet",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://play.google.com/store/apps/details?id=kz.rahmet.app"
+    },
+
+    {
+      "name": "ultimate-guitar",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": ["yii"],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://www.ultimate-guitar.com/pro/"
+    },
+
+    {
+      "name": "seller.amberluxury",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://seller.amberluxury.ru/"
+    },
+
+    {
+      "name": "neftegaz-kld",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://neftegaz-kld.ru/"
+    },
+
+    {
+      "name": "gufo",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": ["yii"],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "http://gufo.me/"
+    },
+
+    {
+      "name": "lineage",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://lineage.ru/"
+    },
+
+    {
+      "name": "tirael",
+      "type": "",
+      "subject": "",
+      "stack": {
+        "client": [],
+        "server": [],
+        "database": []
+      },
+      "cost": "",
+      "terms": "",
+      "link": "https://tirael.ru/"
+    }
+
+  ]
+}
